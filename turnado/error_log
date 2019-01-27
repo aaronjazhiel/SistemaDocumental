@@ -1,0 +1,116 @@
+[24-Jun-2018 13:30:46 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[24-Jun-2018 13:30:46 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[24-Jun-2018 13:31:32 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[24-Jun-2018 13:31:32 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[24-Jun-2018 13:31:34 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[24-Jun-2018 13:31:34 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[24-Jun-2018 13:31:34 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[24-Jun-2018 13:31:34 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[24-Jun-2018 13:31:34 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 82
+[24-Jun-2018 13:31:34 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 148
+[24-Jun-2018 13:32:19 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[24-Jun-2018 13:32:19 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[24-Jun-2018 13:32:22 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[24-Jun-2018 13:32:22 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[24-Jun-2018 13:32:22 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[24-Jun-2018 13:32:22 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[24-Jun-2018 13:32:22 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 82
+[24-Jun-2018 13:32:22 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 148
+[24-Jun-2018 13:33:42 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[24-Jun-2018 13:33:42 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[04-Jul-2018 22:58:45 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[04-Jul-2018 22:58:45 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[04-Jul-2018 22:58:48 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[04-Jul-2018 22:58:48 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[04-Jul-2018 22:58:48 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[04-Jul-2018 22:58:48 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[04-Jul-2018 22:58:48 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 82
+[04-Jul-2018 22:58:48 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 148
+[04-Jul-2018 22:59:14 America/Mexico_City] PHP Notice:  Undefined index: idUsuarioTurnado in /home2/ayudamig/public_html/catalogo_2/turnado/alta.php on line 16
+[04-Jul-2018 22:59:23 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[04-Jul-2018 22:59:23 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[05-Jul-2018 10:48:04 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[05-Jul-2018 10:48:04 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[18-Jul-2018 09:35:14 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[18-Jul-2018 09:35:14 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[18-Jul-2018 09:35:16 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[18-Jul-2018 09:35:16 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[18-Jul-2018 09:35:16 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[18-Jul-2018 09:35:16 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[18-Jul-2018 09:35:16 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 82
+[18-Jul-2018 09:35:16 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 148
+[30-Jul-2018 18:56:39 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[30-Jul-2018 18:56:39 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[30-Jul-2018 18:56:46 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[30-Jul-2018 18:56:46 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[30-Jul-2018 18:56:46 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[30-Jul-2018 18:56:46 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[30-Jul-2018 18:56:46 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 82
+[30-Jul-2018 18:56:46 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 148
+[30-Jul-2018 18:58:33 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[30-Jul-2018 18:58:33 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[15-Aug-2018 17:27:43 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[15-Aug-2018 17:27:43 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[15-Aug-2018 17:29:42 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[15-Aug-2018 17:29:42 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[15-Aug-2018 17:29:42 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[15-Aug-2018 17:29:42 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[15-Aug-2018 17:29:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 82
+[15-Aug-2018 17:29:42 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 148
+[19-Aug-2018 01:42:06 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[19-Aug-2018 01:42:06 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[19-Aug-2018 01:47:23 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[19-Aug-2018 01:47:23 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[19-Aug-2018 01:47:23 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[19-Aug-2018 01:47:23 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[19-Aug-2018 01:47:23 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 82
+[19-Aug-2018 01:47:23 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 148
+[04-Oct-2018 07:59:29 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[04-Oct-2018 07:59:29 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[04-Oct-2018 11:19:31 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[04-Oct-2018 11:19:31 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[09-Nov-2018 19:28:28 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[09-Nov-2018 19:28:28 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[12-Nov-2018 10:55:35 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[12-Nov-2018 10:55:35 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[12-Nov-2018 15:05:12 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[12-Nov-2018 15:05:12 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[12-Nov-2018 15:05:12 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[12-Nov-2018 15:05:12 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[12-Nov-2018 15:05:12 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[12-Nov-2018 15:05:12 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 82
+[12-Nov-2018 15:05:12 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 148
+[16-Nov-2018 00:46:44 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[16-Nov-2018 00:46:44 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[19-Nov-2018 14:20:26 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[19-Nov-2018 14:20:26 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[13-Dec-2018 21:09:20 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[13-Dec-2018 21:09:20 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[14-Dec-2018 22:08:11 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[14-Dec-2018 22:08:11 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[16-Dec-2018 20:01:33 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[16-Dec-2018 20:01:33 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[16-Dec-2018 23:39:57 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[16-Dec-2018 23:39:57 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[19-Dec-2018 15:37:32 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[19-Dec-2018 15:37:32 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[19-Dec-2018 15:37:32 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[19-Dec-2018 15:37:32 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[19-Dec-2018 15:37:32 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[19-Dec-2018 15:37:32 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 82
+[19-Dec-2018 15:37:32 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 148
+[07-Jan-2019 21:03:28 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[07-Jan-2019 21:03:28 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[14-Jan-2019 03:35:54 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[14-Jan-2019 03:35:54 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[14-Jan-2019 03:37:01 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[14-Jan-2019 03:37:01 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[14-Jan-2019 03:37:01 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[14-Jan-2019 03:37:01 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[14-Jan-2019 03:37:01 America/Mexico_City] PHP Notice:  Undefined index: $id in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 45
+[14-Jan-2019 03:37:01 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 82
+[14-Jan-2019 03:37:01 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home2/ayudamig/public_html/catalogo_2/turnado/formulario.php on line 148
+[18-Jan-2019 09:24:00 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[18-Jan-2019 09:24:00 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[27-Jan-2019 13:06:10 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51
+[27-Jan-2019 13:06:10 America/Mexico_City] PHP Notice:  Undefined index: descripcion_Turnado in /home2/ayudamig/public_html/catalogo_2/turnado/tabla.php on line 51

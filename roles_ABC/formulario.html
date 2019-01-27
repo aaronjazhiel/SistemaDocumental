@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registro de Roles</title>
+	<link rel="stylesheet" type="text/css" href= "css/estilos.css">
+	<script >
+		function validacion (id){
+			var elem=document.getElementsById('id');
+		}
+	</script>
+</head>
+<body>
+
+	
+<div class="form" >
+		<center>
+			
+		<form name="Registro"  action="alta.php" method="POST">
+
+			<fieldset>
+				<legend></legend>
+			
+		     <section>
+	 <div id ="header">
+    <div id="logo" id="logo">  
+
+      
+
+      <img src="css/logoesm.jpg">
+    </div>
+    			
+
+    			<p>Roles:</p>
+
+    			<label for="descripcion">Rol*</label>
+    			
+ 						
+ 				<input type="text" name="descripcion" placeholder="Descripcion Rol" required>
+ 				<br>
+				<br>
+ 				<label for="nemonico">Nemonico</label>
+ 						
+ 				<input type="text" name="nemonico" placeholder="Descripcion Nemonico" required>
+ 				<br>
+				<br>
+ 				<label for="orden">Orden</label>
+
+ 				<input type="number" name="orden" min="1" max="9" step="1" onkeypress="return numeros(event)" required="required" placeholder="Numero de Orden" >
+ 				<br>
+				<br>
+				
+
+			
+
+			<leaf>
+		      <input type="submit" value="Registrar" class="btn btn-success" name="btn_registrar">
+				<a href="tabla.php">Regresar</a>
+		      
+		    </leaf>
+					
+ 					</section>
+			</fieldset>
+		</form>
+
+		
+
+	
+ </body>
+ </html> 									
+

@@ -1,0 +1,5 @@
+[12-Jul-2018 18:26:56 America/Mexico_City] PHP Notice:  Undefined variable: nombre in /home2/ayudamig/public_html/catalogo_2/dependencias_ABC/modificar_dependencias.php on line 50
+[10-Aug-2018 11:21:17 America/Mexico_City] PHP Notice:  Undefined variable: nombre in /home2/ayudamig/public_html/catalogo_2/dependencias_ABC/modificar_dependencias.php on line 50
+[26-Aug-2018 05:42:15 America/Mexico_City] PHP Notice:  Undefined variable: nombre in /home2/ayudamig/public_html/catalogo_2/dependencias_ABC/modificar_dependencias.php on line 50
+[15-Oct-2018 11:55:04 America/Mexico_City] PHP Notice:  Undefined variable: nombre in /home2/ayudamig/public_html/catalogo_2/dependencias_ABC/modificar_dependencias.php on line 50
+[19-Nov-2018 20:18:58 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/ayudamig/public_html/catalogo_2/dependencias_ABC/modificar_dependencias.php on line 7

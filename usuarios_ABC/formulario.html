@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registro de Usuarios</title>
+	<link rel="stylesheet" type="text/css" href= "css/estilos.css">
+	<script >
+		function validacion (id){
+			var elem=document.getElementsById('id');
+		}
+	</script>
+</head>
+<body>
+
+	
+<div class="form" >
+		<center>
+			
+		<form name="Registro"  action="alta.php" method="POST">
+			<fieldset>
+				<legend></legend>
+			
+		     <section>
+	 <div id ="header">
+    <div id="logo" id="logo">  
+
+      
+
+      <img src="css/logoesm.jpg">
+    </div>
+    			
+
+    			<p>Usuario:</p>
+ 						
+ 						<label for="Nombre">Su Nombre*                    </label>
+			<input type="Nombre" name="nombre" placeholder="Nombre" required>
+			<br>
+			<br>
+
+			<label for="Apellido Paterno">Apellido Paterno</label>
+			<input type="Apellido Paterno" name="apellidoPaterno" placeholder="Apellido Paterno" required>
+
+			<br>
+			<br>
+
+			<label for="Apellido Materno">Apellido Materno</label>
+			<input type="Apellido Materno" name="apellidoMaterno" placeholder="Apellido Materno" required>	
+			<br>
+			<br>	
+			<label for="idRol">Rol</label>
+			<SELECT name="idRol">
+				<OPTION VALUE="1">Profesor</OPTION>
+				<OPTION VALUE="2">Estudiante</OPTION>
+				<OPTION VALUE="3">Auxiliar</OPTION>
+				<OPTION VALUE="4">Administrador</OPTION>
+				<OPTION VALUE="5">Otro</OPTION>
+
+			</SELECT>
+				
+			<br>
+			<br>
+			<label for="idDependencias">Dependencias</label>	
+
+			<SELECT name="idDependencias">
+				<OPTION VALUE="1">Direccion</OPTION>	
+				<OPTION VALUE="2">Sub Administrativa</OPTION>
+				<OPTION VALUE="3">Sub Academica</OPTION>
+				<OPTION VALUE="4">Sub Posgrado</OPTION>
+				<OPTION VALUE="5">Sub Serv Educativos</OPTION>
+			</SELECT>
+
+			<br>
+			<br>
+			
+
+			<leaf>
+		      <input type="submit" value="Registrar" class="btn btn-success" name="btn_registrar">
+				<a href="tabla.php">Regresar</a>
+		      
+		    </leaf>
+					
+ 					</section>
+			</fieldset>
+		</form>
+
+		
+
+	
+ </body>
+ </html> 									
+
